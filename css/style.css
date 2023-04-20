@@ -1,0 +1,226 @@
+body {
+    font-family: cursive;
+    background-image: url(../weblap_kepek/hatter.jpg);
+}
+
+#felulalul {
+    text-align: center;
+    background-color: black;
+    color: azure;
+    border-style: none solid;
+    border-color: gray;
+    border-width: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#felul {
+    border-style: none solid;
+    border-color: gray;
+    border-width: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: black;
+    text-align: center;
+    color: white;
+    width: 100%;
+    display: block;
+}
+
+#felulalulinfo {
+    text-align: center;
+}
+
+#felulalulJobbra {
+    text-align: right;
+    padding-right: 15px;
+    color: black;
+}
+
+#felulalulBalra {
+    float: left;
+    padding-left: 10px;
+}
+
+#header_keret {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fejlecTerulete {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#fejlecTere {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background-color: rgba(255, 255, 255, 0.179);
+}
+
+#accountIkonTer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    width: 100%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+#kereses {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+#koszontes {
+    background-position: center center;
+    height: 400px;
+    background-size: cover;
+    background-image: url(../weblap_kepek/kapu.png);
+}
+
+#cim {
+    background-color: rgba(248, 248, 248, 0.452);
+    margin-top: 80px;
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: goldenrod;
+    font-weight: bold;
+}
+
+h3 {
+    margin-top: 30px;
+    padding-left: 10px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+}
+
+.navbar {
+    background-color: gainsboro;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 12, 142);
+}
+
+#maincontent {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.category-description {
+    background-color: rgb(255, 42, 42);
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+#pagekinezet {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#page {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+    border-width: 2px;
+    font-size: x-small;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:focus {
+    text-decoration: none;
+    color: black;
+}
+
+ol {
+    list-style-type: none;
+}
+
+thead>tr:first-child {
+    letter-spacing: 2px;
+}
+
+p {
+    text-indent: 15px;
+}
+
+#szoveg_szin {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: normal;
+}
+
+#szoveg_style {
+    text-transform: uppercase;
+    letter-spacing: normal;
+}
+
+#szoveg_style2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: normal;
+}
+
+#hr_style1 {
+    height: 2px;
+    border-width: 0;
+    color: gray;
+    background-color: gray
+}
+
+.number-wrapper {
+    width: 50px;
+}
+
+.kozepre {
+    justify-content: center;
+    text-align: center;
+}
+
+#minden_kozepre {
+    background-color: rgb(216, 234, 234);
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+    width: auto;
+}

@@ -1,0 +1,46 @@
+#termekekTere {
+    margin-bottom: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: rgb(255, 246, 234);
+}
+
+#termekTere {
+    background-image: url(../weblap_kepek/tekecs.png);
+    background-position: center center;
+    background-size: cover;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+}
+
+#termekNeve {
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#vasarlas {
+    background-color: red;
+    border-width: 2px;
+    border-color: white;
+    float: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+}

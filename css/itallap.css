@@ -1,0 +1,41 @@
+#italok_hattere{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: rgba(255, 235, 205, 0);
+}
+
+#italter {
+    background-color: rgba(168, 254, 255, 0.463);
+    margin-bottom: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+#italCim {
+    margin-top: 10px;
+    color: azure;
+    text-align: center;
+    font-family: fantasy, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-shadow:2px 2px 0px black, 1px 1px 0px #ffeeee ;
+}
+
+#leiras {
+    text-align: justify;
+    color: azure;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-shadow:2px 2px 0px black, 1px 1px 0px #ffeeee ;
+}

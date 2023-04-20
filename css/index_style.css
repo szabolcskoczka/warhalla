@@ -1,0 +1,113 @@
+.indexmain {
+    background-color: rgb(183, 183, 183);
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#leiras {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: dimgray;
+    color: azure;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 30px;
+}
+
+#h2index {
+    margin-top: 10px;
+    color: bisque;
+    border-left: 3px dotted bisque;
+    font-variant: small-caps;
+    padding: 10px 15px;
+}
+
+#leirasGomg {
+    float: right;
+    background-color: #ffffff00;
+    border-color: #ffffff00;
+    margin-left: 30px;
+    margin-top: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#uj {
+    text-align: center;
+    color: black;
+    background-color: #8a91929a;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 20px 40px 10px;
+}
+
+#legfrissebb {
+    text-align: center;
+    color: black;
+    background-image: url(../weblap_kepek/marvany.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#termekTereindex {
+    background-image: url(../weblap_kepek/tekecs.png);
+    background-position: center center;
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+}
+
+#indexadatok {
+    background-color: rgb(212, 199, 181);
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.vasarlasGombindex {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+}
+
+.indexkep_nev {
+    height: 50px;
+    max-height: 200px;
+    display: block;
+    text-align: center;
+    position: center center;
+}
+
+#vasarlasindex {
+    background-color: red;
+    border-width: 2px;
+    border-color: white;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

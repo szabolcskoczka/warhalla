@@ -1,0 +1,51 @@
+.login-container-ter {
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: rgba(222, 253, 255, 0.687);
+}
+
+.login-forgot-szoveg {
+    float: right;
+}
+
+.block-customer-style {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgba(223, 109, 16, 0.795);
+    color: black;
+}
+
+#felhaszbelepo-control {
+    margin-top: 15px;
+}
+
+.forgot-container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: rgba(222, 253, 255, 0.795);
+}
+
+#szoveg_arnyek{
+    padding-bottom: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    color: rgb(150, 155, 159);
+    text-shadow:2px 2px 0px black,1px 1px 0px #ffeeee ;
+}
+
+#szoveg_arnyek2{
+    font-size: 20px;
+    text-shadow:5px 5px 15px red;
+}
