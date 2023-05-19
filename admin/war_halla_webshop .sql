@@ -36,9 +36,9 @@ CREATE TABLE `admin_fiokok`(
   ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_hungarian_ci;
   
   INSERT INTO `admin_fiokok` (`id`, `felhasznalonev`, `jelszo`,`email`) VALUES
-(1, 'Hovanecz Mate','kifli','hovaneczm@gmail.com'),
-(2, 'Koczka Szabolcs','kenyer','szabolcskocza4@gmail.com'),
-(3, 'admin','kecske','warhallawebshop@gmail.com');
+(1, 'Hovanecz Mate','Mate001','hovaneczm@gmail.com'),
+(2, 'Koczka Szabolcs','Szabolcs001','szabolcskocza4@gmail.com'),
+(3, 'admin','admin003','warhallawebshop@gmail.com');
 
 CREATE TABLE `felhasznalok` (
   `id` int(11) NOT NULL,
